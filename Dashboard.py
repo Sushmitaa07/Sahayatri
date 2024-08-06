@@ -23,7 +23,7 @@ def create_add_driver_frame(parent):
         ("Vehicle Name:", 2, 2),
         ("Driver's Email:", 3, 0),
         ("License Issue Date:", 4, 0),
-        ("License Expiry Date:", 4, 2)
+        ("License Expiry Date:", 4, 2) 
     ]
     
     for text, row, col in form_labels:
